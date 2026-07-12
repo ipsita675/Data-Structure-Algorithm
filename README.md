@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
 | [0912-sort-an-array](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/1331-rank-transform-of-an-array) |
 | [1901-find-a-peak-element-ii](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/1901-find-a-peak-element-ii) |
 ## Binary Search
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0912-sort-an-array](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/1331-rank-transform-of-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0912-sort-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
