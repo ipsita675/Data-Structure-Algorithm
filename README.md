@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0208-implement-trie-prefix-tree](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0208-implement-trie-prefix-tree) |
+| [0460-lfu-cache](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0460-lfu-cache) |
 | [1331-rank-transform-of-an-array](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/1331-rank-transform-of-an-array) |
 ## Math
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0460-lfu-cache](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0460-lfu-cache) |
 ## Binary Tree
 |  |
 | ------- |
@@ -139,4 +141,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0239-sliding-window-maximum) |
+## Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0460-lfu-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
