@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0038-count-and-say](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0038-count-and-say) |
 | [0208-implement-trie-prefix-tree](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Sliding Window
