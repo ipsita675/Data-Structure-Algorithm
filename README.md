@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1901-find-a-peak-element-ii](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0239-sliding-window-maximum) |
 | [0912-sort-an-array](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0912-sort-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
