@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0210-course-schedule-ii](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0210-course-schedule-ii) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Design
 |  |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Bit Manipulation
 |  |
@@ -183,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0210-course-schedule-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
