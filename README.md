@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0074-search-a-2d-matrix) |
 | [0239-sliding-window-maximum](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0493-reverse-pairs) |
 | [0778-swim-in-rising-water](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0778-swim-in-rising-water) |
 | [0912-sort-an-array](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0912-sort-an-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/1331-rank-transform-of-an-array) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0912-sort-an-array) |
 ## Depth-First Search
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0778-swim-in-rising-water) |
 | [0912-sort-an-array](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0912-sort-an-array) |
@@ -94,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -102,12 +107,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0208-implement-trie-prefix-tree](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0208-implement-trie-prefix-tree) |
+| [0347-top-k-frequent-elements](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0460-lfu-cache](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0460-lfu-cache) |
 | [1331-rank-transform-of-an-array](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/1331-rank-transform-of-an-array) |
 ## Math
@@ -205,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0743-network-delay-time) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
