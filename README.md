@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0493-reverse-pairs) |
+| [0778-swim-in-rising-water](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0778-swim-in-rising-water) |
 | [0912-sort-an-array](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/1331-rank-transform-of-an-array) |
@@ -26,12 +27,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0493-reverse-pairs) |
+| [0778-swim-in-rising-water](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0778-swim-in-rising-water) |
 | [1901-find-a-peak-element-ii](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/1901-find-a-peak-element-ii) |
 ## Matrix
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
+| [0778-swim-in-rising-water](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0778-swim-in-rising-water) |
 | [1901-find-a-peak-element-ii](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/1901-find-a-peak-element-ii) |
 ## Sorting
 |  |
@@ -54,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0743-network-delay-time](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0778-swim-in-rising-water) |
 | [2685-count-the-number-of-complete-components](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -61,10 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0743-network-delay-time](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0778-swim-in-rising-water) |
 | [2685-count-the-number-of-complete-components](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0778-swim-in-rising-water) |
 | [2685-count-the-number-of-complete-components](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
@@ -77,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0239-sliding-window-maximum) |
 | [0743-network-delay-time](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0778-swim-in-rising-water) |
 | [0912-sort-an-array](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
