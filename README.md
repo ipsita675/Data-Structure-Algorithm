@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Binary Search
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
 | [0778-swim-in-rising-water](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0778-swim-in-rising-water) |
 | [1901-find-a-peak-element-ii](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/1901-find-a-peak-element-ii) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Sorting
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0743-network-delay-time) |
 | [2685-count-the-number-of-complete-components](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/2685-count-the-number-of-complete-components) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
