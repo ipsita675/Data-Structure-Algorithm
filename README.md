@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0098-validate-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0210-course-schedule-ii](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0098-validate-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0098-validate-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Shortest Path
 |  |
