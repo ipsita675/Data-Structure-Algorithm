@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0493-reverse-pairs) |
 | [0778-swim-in-rising-water](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0778-swim-in-rising-water) |
+| [0877-stone-game](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0973-k-closest-points-to-origin) |
 | [1288-remove-covered-intervals](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/1288-remove-covered-intervals) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0973-k-closest-points-to-origin) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/2769-find-the-maximum-achievable-number) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0877-stone-game](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0877-stone-game) |
 ## Topological Sort
 |  |
 | ------- |
@@ -250,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3925-concatenate-array-with-reverse](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/3925-concatenate-array-with-reverse) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
