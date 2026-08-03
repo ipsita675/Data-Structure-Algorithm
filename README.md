@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0038-count-and-say) |
 | [0208-implement-trie-prefix-tree](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0208-implement-trie-prefix-tree) |
@@ -282,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0877-stone-game) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
