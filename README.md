@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0973-k-closest-points-to-origin) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0133-clone-graph) |
 | [0208-implement-trie-prefix-tree](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0460-lfu-cache) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0038-count-and-say) |
 | [0208-implement-trie-prefix-tree](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/2011-final-value-of-variable-after-performing-operations) |
