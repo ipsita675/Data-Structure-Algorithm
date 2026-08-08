@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0133-clone-graph) |
+| [0141-linked-list-cycle](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0141-linked-list-cycle) |
 | [0208-implement-trie-prefix-tree](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0242-valid-anagram) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0206-reverse-linked-list) |
 | [0460-lfu-cache](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
@@ -322,4 +324,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
