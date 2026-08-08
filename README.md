@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -315,4 +316,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0238-product-of-array-except-self) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
