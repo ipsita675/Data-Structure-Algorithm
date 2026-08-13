@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0572-subtree-of-another-tree) |
 | [0743-network-delay-time](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0778-swim-in-rising-water) |
+| [0938-range-sum-of-bst](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0938-range-sum-of-bst) |
 | [2685-count-the-number-of-complete-components](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0572-subtree-of-another-tree) |
+| [0938-range-sum-of-bst](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0938-range-sum-of-bst) |
 | [2236-root-equals-sum-of-children](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/2236-root-equals-sum-of-children) |
 ## Design
 |  |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0572-subtree-of-another-tree) |
+| [0938-range-sum-of-bst](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0938-range-sum-of-bst) |
 | [2236-root-equals-sum-of-children](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/2236-root-equals-sum-of-children) |
 ## Bit Manipulation
 |  |
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0938-range-sum-of-bst) |
 ## Shortest Path
 |  |
 | ------- |
