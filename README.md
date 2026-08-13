@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0338-counting-bits) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Trie
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0322-coin-change](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0338-counting-bits) |
 | [0877-stone-game](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0877-stone-game) |
 ## Topological Sort
 |  |
