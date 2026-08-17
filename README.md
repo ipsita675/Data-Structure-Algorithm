@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0128-longest-consecutive-sequence) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0338-counting-bits) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/1707-maximum-xor-with-an-element-from-array) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0079-word-search) |
 ## Knapsack Problem
 |  |
