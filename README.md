@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0403-frog-jump](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0403-frog-jump) |
 | [0493-reverse-pairs](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0493-reverse-pairs) |
+| [0518-coin-change-ii](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0518-coin-change-ii) |
 | [0778-swim-in-rising-water](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0778-swim-in-rising-water) |
 | [0877-stone-game](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0912-sort-an-array) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0338-counting-bits) |
 | [0403-frog-jump](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0403-frog-jump) |
+| [0518-coin-change-ii](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/1137-n-th-tribonacci-number) |
 ## Topological Sort
@@ -436,10 +438,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0518-coin-change-ii) |
 ## Combinatorics
 |  |
 | ------- |
