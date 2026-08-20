@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0778-swim-in-rising-water) |
 | [0877-stone-game](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0912-sort-an-array) |
+| [0931-minimum-falling-path-sum](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0931-minimum-falling-path-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0973-k-closest-points-to-origin) |
 | [1288-remove-covered-intervals](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/1331-rank-transform-of-an-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
 | [0778-swim-in-rising-water](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0778-swim-in-rising-water) |
+| [0931-minimum-falling-path-sum](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0931-minimum-falling-path-sum) |
 | [1901-find-a-peak-element-ii](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/1901-find-a-peak-element-ii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Sorting
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0403-frog-jump) |
 | [0518-coin-change-ii](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0877-stone-game) |
+| [0931-minimum-falling-path-sum](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0931-minimum-falling-path-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/1137-n-th-tribonacci-number) |
 ## Topological Sort
 |  |
