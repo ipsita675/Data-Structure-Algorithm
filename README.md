@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0403-frog-jump](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0403-frog-jump) |
+| [0416-partition-equal-subset-sum](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0416-partition-equal-subset-sum) |
 | [0493-reverse-pairs](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0493-reverse-pairs) |
 | [0518-coin-change-ii](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0338-counting-bits) |
 | [0403-frog-jump](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0403-frog-jump) |
+| [0416-partition-equal-subset-sum](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0741-cherry-pickup](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0741-cherry-pickup) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
@@ -467,4 +470,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0062-unique-paths) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
