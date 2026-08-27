@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0079-word-search) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0200-number-of-islands) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0141-linked-list-cycle) |
