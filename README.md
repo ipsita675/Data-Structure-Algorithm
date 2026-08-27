@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0074-search-a-2d-matrix) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0074-search-a-2d-matrix) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0054-spiral-matrix) |
 | [1920-build-array-from-permutation](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3838-weighted-word-mapping](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/3838-weighted-word-mapping) |
