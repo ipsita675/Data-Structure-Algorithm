@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0102-binary-tree-level-order-traversal) |
 | [0133-clone-graph](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0743-network-delay-time) |
 | [2685-count-the-number-of-complete-components](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/2685-count-the-number-of-complete-components) |
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0210-course-schedule-ii) |
 ## Binary Search Tree
 |  |
@@ -492,4 +496,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0175-combine-two-tables) |
 | [0620-not-boring-movies](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0620-not-boring-movies) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
