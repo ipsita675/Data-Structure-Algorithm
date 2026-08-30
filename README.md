@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [1048-longest-string-chain](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/1048-longest-string-chain) |
+| [1143-longest-common-subsequence](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/1143-longest-common-subsequence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3838-weighted-word-mapping](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/3838-weighted-word-mapping) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0931-minimum-falling-path-sum) |
 | [1048-longest-string-chain](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/1048-longest-string-chain) |
 | [1137-n-th-tribonacci-number](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/1143-longest-common-subsequence) |
 | [1463-cherry-pickup-ii](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/1463-cherry-pickup-ii) |
 ## Topological Sort
 |  |
@@ -520,4 +522,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0207-course-schedule) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
