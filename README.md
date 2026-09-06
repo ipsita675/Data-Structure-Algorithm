@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0147-insertion-sort-list) |
 | [0169-majority-element](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0368-largest-divisible-subset) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0912-sort-an-array) |
 ## Hash Table
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
@@ -544,4 +548,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
