@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0739-daily-temperatures](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0739-daily-temperatures) |
 | [0741-cherry-pickup](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0741-cherry-pickup) |
 | [0778-swim-in-rising-water](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0778-swim-in-rising-water) |
 | [0877-stone-game](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0877-stone-game) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0020-valid-parentheses) |
+| [0739-daily-temperatures](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
 | ------- |
@@ -552,4 +554,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0229-majority-element-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
