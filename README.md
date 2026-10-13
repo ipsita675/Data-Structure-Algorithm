@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0416-partition-equal-subset-sum) |
 | [0493-reverse-pairs](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0493-reverse-pairs) |
 | [0518-coin-change-ii](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0518-coin-change-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0741-cherry-pickup](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0741-cherry-pickup) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0460-lfu-cache) |
+| [0560-subarray-sum-equals-k](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [1048-longest-string-chain](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/1331-rank-transform-of-an-array) |
 | [3668-restore-finishing-order](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/3668-restore-finishing-order) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
