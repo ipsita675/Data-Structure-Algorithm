@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0912-sort-an-array) |
 | [0931-minimum-falling-path-sum](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0931-minimum-falling-path-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0973-k-closest-points-to-origin) |
+| [0997-find-the-town-judge](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/1046-last-stone-weight) |
 | [1048-longest-string-chain](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/1048-longest-string-chain) |
 | [1288-remove-covered-intervals](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/1288-remove-covered-intervals) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0743-network-delay-time) |
+| [0997-find-the-town-judge](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0997-find-the-town-judge) |
 | [2685-count-the-number-of-complete-components](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/2685-count-the-number-of-complete-components) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Heap (Priority Queue)
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0460-lfu-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0560-subarray-sum-equals-k) |
+| [0997-find-the-town-judge](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0997-find-the-town-judge) |
 | [1048-longest-string-chain](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/1331-rank-transform-of-an-array) |
 | [3668-restore-finishing-order](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/3668-restore-finishing-order) |
