@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0739-daily-temperatures) |
 | [0741-cherry-pickup](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0741-cherry-pickup) |
 | [0778-swim-in-rising-water](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0778-swim-in-rising-water) |
+| [0875-koko-eating-bananas](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0912-sort-an-array) |
 | [0931-minimum-falling-path-sum](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0931-minimum-falling-path-sum) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0493-reverse-pairs) |
 | [0658-find-k-closest-elements](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0658-find-k-closest-elements) |
 | [0778-swim-in-rising-water](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0778-swim-in-rising-water) |
+| [0875-koko-eating-bananas](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0875-koko-eating-bananas) |
 | [1901-find-a-peak-element-ii](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/1901-find-a-peak-element-ii) |
 ## Matrix
 |  |
