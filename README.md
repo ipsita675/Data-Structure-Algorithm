@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0074-search-a-2d-matrix) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0070-climbing-stairs) |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0134-gas-station) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
