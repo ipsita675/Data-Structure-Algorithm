@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0054-spiral-matrix) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0063-unique-paths-ii) |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0143-reorder-list) |
 | [0739-daily-temperatures](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0739-daily-temperatures) |
 ## Recursion
@@ -499,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0143-reorder-list) |
@@ -592,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0739-daily-temperatures) |
 ## DP on Trees
 |  |
