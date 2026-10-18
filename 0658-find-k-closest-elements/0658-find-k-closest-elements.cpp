@@ -12,6 +12,6 @@ public:
             else high=mid;
         }
 
-        return vector<int>(arr.begin()+low,arr.begin()+k);
+        return vector<int>(arr.begin()+low,arr.begin()+low+k);
     }
 };
