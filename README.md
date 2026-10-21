@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0368-largest-divisible-subset) |
+| [0399-evaluate-division](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0416-partition-equal-subset-sum) |
 | [0493-reverse-pairs](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0493-reverse-pairs) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0399-evaluate-division](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0399-evaluate-division) |
 | [0543-diameter-of-binary-tree](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0684-redundant-connection) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0322-coin-change) |
+| [0399-evaluate-division](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0778-swim-in-rising-water) |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0684-redundant-connection) |
 | [0778-swim-in-rising-water](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0778-swim-in-rising-water) |
 | [2685-count-the-number-of-complete-components](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/2685-count-the-number-of-complete-components) |
@@ -204,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0743-network-delay-time) |
 | [0997-find-the-town-judge](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0997-find-the-town-judge) |
@@ -309,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0399-evaluate-division](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0516-longest-palindromic-subsequence) |
 | [1048-longest-string-chain](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/1048-longest-string-chain) |
@@ -466,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0743-network-delay-time) |
 ## Quickselect
 |  |
@@ -622,4 +629,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1114-print-in-order](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/1114-print-in-order) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/ipsita675/Data-Structure-Algorithm/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
